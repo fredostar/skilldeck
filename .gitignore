@@ -1,23 +1,14 @@
-# Angular specific
+# Build output
 /dist/
 /out-tsc/
 /tmp/
 /coverage/
-/e2e/test-output/
-/.angular/
-.angular/
 
-# Node modules and dependency files
+# Node
 /node_modules/
-/package-lock.json
-/yarn.lock
 
-# Environment files
+# Environment
 /.env
-
-# Angular CLI and build artefacts
-/.angular-cli.json
-/.ng/
 
 # TypeScript cache
 *.tsbuildinfo
